@@ -70,7 +70,7 @@ En este trabajo se distinguen dos nociones que suelen confundirse:
   corrección. Esto se muestra en `adaptabilidad_pasiva()`: al subir R de
   60 Ω a 400 Ω el sistema pasa de sub-amortiguado (ζ=0.42) a sobre-amortiguado
   (ζ=2.83) sin ningún mecanismo que intente compensarlo.
-  ![Adaptabilidad pasiva](outputs/2_adaptabilidad_pasiva.png)
+  ![Adaptabilidad pasiva](2_adaptabilidad_pasiva.png)
 - **Adaptabilidad activa (en sentido de control):** la definición que se
   argumenta como la correcta para hablar de "adaptabilidad" de un sistema es
   la **capacidad de un sistema de modificar su propio comportamiento (una
@@ -91,7 +91,7 @@ En este trabajo se distinguen dos nociones que suelen confundirse:
   reacomoda sola y el sistema vuelve a acercarse a la referencia, en lugar
   de simplemente "sufrir" el cambio como en el caso pasivo.
  
-  ![Adaptabilidad activa](outputs/3_adaptabilidad_activa.png)
+  ![Adaptabilidad activa](3_adaptabilidad_activa.png)
  
 **Conclusión del argumento:** un sistema es *adaptable* no por el simple
 hecho de responder distinto ante distintos parámetros (eso lo hace cualquier
@@ -113,7 +113,7 @@ Lyapunov + σ-modificación) tomando como salida controlada la tensión del
 segundo capacitor, mientras la resistencia de la primera etapa cambia a
 mitad de camino:
  
-![Sistema complejo](outputs/4_sistema_complejo_generalizado.png)
+![Sistema complejo](4_sistema_complejo_generalizado.png)
  
 El hecho de que la misma ley de adaptación —sin cambios estructurales—
 logre corregir la salida de un sistema de mayor orden y más acoplado,
