@@ -57,7 +57,7 @@ del RLC serie (fórmula cerrada según el caso de amortiguamiento). El error
 máximo obtenido es del orden de `1e-9 V`, es decir, la simulación numérica
 reproduce fielmente la física del circuito.
  
-![Verificación](outputs/1_verificacion_estados.png)
+![Verificación](1_verificacion_estados.png)
  
 ## 3. ¿Qué se entiende por "adaptabilidad"?
  
