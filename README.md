@@ -1,4 +1,4 @@
-# Comprobar Adaptabilidad — Sistema RLC
+# Adaptabilidad — Sistema RLC
 
 Trabajo práctico: simular un sistema RLC, verificar sus estados, argumentar
 qué se entiende por **adaptabilidad**, y generalizar el resultado a un
@@ -13,7 +13,6 @@ sistema más complejo.
 Ejecutar:
 
 ```bash
-pip install -r requirements.txt
 python3 rlc_simulation.py
 ```
 
