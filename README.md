@@ -1,4 +1,7 @@
 # Adaptabilidad — Sistema RLC
+## Brayan Steven Guerrero
+## Santiago Parra Acuña
+## Samuel Chaves Mora
 
 Trabajo práctico: simular un sistema RLC, verificar sus estados, argumentar
 qué se entiende por **adaptabilidad**, y generalizar el resultado a un
